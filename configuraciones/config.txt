@@ -1,0 +1,20 @@
+#1 -> velocidad
+_1=5
+#vida de mi avion
+_2=1000
+#vida de mi enemigo
+_3=500
+#vida de los super enemigos
+_4=2000
+#danio que producira el meteoro
+_5=1500
+#velocidad del meteoro 
+_6=5 
+#danio que produce mi disparo simple
+_7=100
+#danio que produce mi super disparo
+_8=500
+#danio del disparo simple de los enemigos 
+_9=100;
+#danio que produce del disparo del super enemigo 
+_0=500
